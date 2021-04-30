@@ -1,0 +1,83 @@
+body{
+	background-color: #F4F7FC;
+	margin: 0;
+	font-family: Poppins, sans-serif;
+	font-style: normal;
+	font-size: 16px;
+}
+main{
+	display: flex;
+	justify-content: center;
+}
+header{
+	font-weight: 500;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #fff;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+h1{
+	margin: 0;
+	font-weight: bold;
+	font-size: 50px;
+}
+.logo{
+	margin-left: 135px;
+}
+.navigation{
+	display: flex;
+	align-items: center;
+	margin-left: 150px;
+}
+.navigation nav{
+	display: flex;
+	justify-content: center;
+}
+.buttons{
+	margin: 0;
+	margin-right: 135px;
+	margin-left: 150px;
+	display: flex;
+	align-items: center;
+}
+.btn-gsed{
+	color: white;
+	padding: 8px 25px;
+	background-color: #2D2D2D;
+	border-radius: 30px;
+	margin: 0;
+	margin-left: 30px;
+}
+.btn-gs{
+	color: white;
+	padding: 8px 25px;
+	background-color: #2D2D2D;
+	border-radius: 30px;
+}
+.text{
+	max-height: 320px;
+	margin: 0;
+	margin-left: 135px;
+	margin-top: 165px;
+}
+.text p{
+	margin: 0;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.image{
+	height: 509px;
+	margin: 0;
+	margin-right: 135px;
+	margin-left: 30px;
+	margin-top: 70px;
+}
+.image img{
+	border-radius: 30px;
+}
+
